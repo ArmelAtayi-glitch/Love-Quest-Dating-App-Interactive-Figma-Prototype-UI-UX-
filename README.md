@@ -4,6 +4,10 @@ Welcome to **LoveQuest**, a high-fidelity mobile dating web prototype designed b
 
 > “Say goodbye to waiting and hello to endless possibilities with LoveQuest.”
 
+Link to prototype - 
+https://www.figma.com/file/pCXlcx38KxFVnYrrlGVFHm/Project-5?type=design&node-id=189%3A1184&mode=design&t=VlxDdr51Rck7Rt0U-1
+Links to an external site.
+
 ---
 
 ## 🌟 Features
